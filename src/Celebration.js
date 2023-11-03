@@ -18,6 +18,10 @@ export default function Celebration() {
         <div className="pics">
           <img src="HR-celebration.jpeg" className="cele-pic" />
         </div>
+          <p className="Heading">
+          Our favourite couple, Hrishita and Rishabh, complete 3 years together
+          today! Celebrations!
+        </p>
       </div>
     </div>
   );
