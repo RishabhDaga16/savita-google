@@ -22,8 +22,8 @@ export default function First() {
         <img src="HR-pic2.jpeg" className="pic" />
       </div>
       <div className="Info">
-        Hrishita Thakkar(20) is a resident of Kolkata studying at The Bhawanipur
-        Educational Society, Calcutta (BESC) whereas Rishabh Daga(20) is
+        Hrishita Thakkar (20) is a resident of Kolkata studying at The Bhawanipur
+        Educational Society, Calcutta (BESC) whereas Rishabh Daga (20) is
         currently staying at Hyderabad to pursue his U.G. degree at BITS Pilani,
         Hyderabad Campus. Hrishita and Rishabh have been in a semi-long distance
         relationship for 3 years now and are the cutest couple you'll ever come
