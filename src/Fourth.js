@@ -6,7 +6,10 @@ export default function Fourth() {
       <a href="/search">
         <img src="fourth.jpg" className="top-image" />
       </a>
-      <img src="Hrishita Pic.webp" className="hrishita-pic" />
+      <img
+        src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
+        className="hrishita-pic"
+      />
       <div>
         <p className="Heading-Large">"I Love You"</p>
       </div>
