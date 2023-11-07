@@ -161,6 +161,14 @@ body {
 .cele-pic {
   width: 100vw;
 }
+.google-landing-redirect {
+  width: 27vw;
+  z-index: 3;
+  position: absolute;
+  top: 2vh;
+  left: 37vw;
+  background-color: #202124;
+}
 @media screen and (min-width: 600px) {
   .App {
     display: none;
