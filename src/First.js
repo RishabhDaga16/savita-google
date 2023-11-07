@@ -10,6 +10,12 @@ export default function First() {
         src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
         className="hrishita-pic"
       />
+          <a href="/">
+        <img
+          src="Google Logo Transparent.png"
+          className="google-landing-redirect"
+        />
+      </a>
       <div>
         <p className="Heading">Hrishita Thakkar and Rishabh Daga</p>
       </div>
