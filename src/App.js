@@ -1,5 +1,6 @@
 import "./App.css";
 import Celebration from "./Celebration";
+import Eighth from "./Eighth";
 import Fifth from "./Fifth";
 import First from "./First";
 import Fourth from "./Fourth";
@@ -25,6 +26,7 @@ function App() {
           <Route path="/fifth" element={<Fifth />} />
           <Route path="/sixth" element={<Sixth />} />
           <Route path="/seventh" element={<Seventh />} />
+          <Route path="/eighth" element={<Eighth />} />
           <Route path="/celebration" element={<Celebration />} />
         </Routes>
       </Router>
@@ -37,6 +39,7 @@ function App() {
       {/* <Fourth /> */}
       {/* <Fifth /> */}
       {/* <Sixth /> */}
+      {/* <Eighth /> */}
       {/* <Seventh /> */}
       {/* <Celebration /> */}
     </div>
