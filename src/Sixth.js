@@ -17,7 +17,7 @@ export default function Sixth() {
         />
       </a>
       <div>
-        <p className="Heading-Large">Best of Luck</p>
+        <p className="Heading-Large">Best of Luck!</p>
       </div>
       <div className="Info">
         Team Google wishes you the very best of luck for your CAT, Hrishita. We
