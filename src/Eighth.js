@@ -22,7 +22,7 @@ export default function Eighth() {
       <div className="Info">
         Team Google congraulates you Hrishita for your spectacular performance
         in NMAT 2023. We certainly hope you get admission in NMIMS Mumbai. Best
-        wishes.
+        wishes!
       </div>
     </div>
   );
