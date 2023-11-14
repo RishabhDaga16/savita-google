@@ -22,7 +22,7 @@ export default function Seventh() {
         </p>
         <br />
         <br />
-        <p className="Heading">
+        <p className="Heading-Large">
           Once again, Congratulations on Completing 3 Years!
         </p>
       </div>
