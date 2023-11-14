@@ -6,27 +6,23 @@ export default function Celebration() {
       <a href="/search">
         <img src="celebration.jpeg" className="top-image" />
       </a>
-      <img
-        src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
-        className="hrishita-pic"
-      />
-          <a href="/">
+      <button type="button" className="btn btn-primary login">
+        Sign In
+      </button>
+      <a href="/">
         <img
           src="Google Logo Transparent.png"
           className="google-landing-redirect"
         />
       </a>
       <div>
-        <p className="Heading">
-          Hrishita and Rishabh complete 3 years together!
-        </p>
-        <br />
+        <p className="Heading">Savita Daga's 46th Birthday!</p>
         <div className="pics">
-          <img src="HR-celebration.jpeg" className="cele-pic" />
+          <img src="HR-pic1.jpeg" className="pic" />
+          <img src="HR-pic2.jpeg" className="pic" />
         </div>
-          <p className="Heading">
-          Our favourite couple, Hrishita and Rishabh, complete 3 years together
-          today! Celebrations!
+        <p className="Heading">
+          Happy Birthday Mrs. Daga! We hope you have a great day!
         </p>
       </div>
     </div>

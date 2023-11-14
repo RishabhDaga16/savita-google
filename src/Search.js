@@ -13,28 +13,21 @@ export default function Search() {
           <p>
             <a class="dropdown-item" href="/first">
               <img src="Magnifying Glass.png" className="magnifying-glass" />
-              Who are Hrishita and Rishabh
+              Who is the most beautiful woman
+              <br /> in the world
             </a>
           </p>
           <p>
             <a class="dropdown-item" href="/second">
               <img src="Magnifying Glass.png" className="magnifying-glass" />
-              When and where did Hrishita and <br />
-              Rishabh meet for the first time
-            </a>
-          </p>
-          <p>
-            <a class="dropdown-item" href="/third">
-              <img src="Magnifying Glass.png" className="magnifying-glass" />
-              When did Hrishita and Rishabh <br />
-              start dating
+              What is Savita's role in her family
             </a>
           </p>
           <p>
             <a class="dropdown-item" href="/fourth">
               <img src="Magnifying Glass.png" className="magnifying-glass" />
-              What does Rishabh want to say
-              <br /> to Hrishita today
+              What does Savita's family want to
+              <br /> say to her today
             </a>
           </p>
           <p>
@@ -42,25 +35,14 @@ export default function Search() {
               <img src="Magnifying Glass.png" className="magnifying-glass" />
               What does Team Google want to say
               <br />
-              to Hrishita and Rishabh today
-            </a>
-          </p>
-          <p>
-            <a class="dropdown-item" href="/sixth">
-              <img src="Magnifying Glass.png" className="magnifying-glass" />
-              CAT 2023
-            </a>
-          </p>
-          <p>
-            <a class="dropdown-item" href="/eighth">
-              <img src="Magnifying Glass.png" className="magnifying-glass" />
-              NMAT 2023
+              to Savita today
             </a>
           </p>
           <p>
             <a class="dropdown-item" href="/seventh">
               <img src="Magnifying Glass.png" className="magnifying-glass" />
-              Finally, how did Rishabh do all this
+              Finally, how did Rishabh and <br />
+              Shashank do all this
             </a>
           </p>
         </div>

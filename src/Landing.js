@@ -7,10 +7,9 @@ export default function Landing() {
         <div id="nav-element-1">ALL</div>
         <div id="nav-element-2">IMAGES</div>
         <i className="fa fa-th"></i>
-        <img
-          src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
-          id="profile-pic"
-        />
+        <button type="button" className="btn btn-primary" id="sign-in">
+          Sign In
+        </button>
       </div>
       <br />
       <br />

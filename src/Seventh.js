@@ -6,24 +6,21 @@ export default function Seventh() {
       <a href="/search">
         <img src="seventh.jpg" className="top-image" />
       </a>
-      <img
-        src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
-        className="hrishita-pic"
-      />
-          <a href="/">
+      <button type="button" className="btn btn-primary login">
+        Sign In
+      </button>
+      <a href="/">
         <img
           src="Google Logo Transparent.png"
           className="google-landing-redirect"
         />
       </a>
       <div>
+        <p className="Heading-Large">Well Mrs. Daga, Your Sons are Geniuses</p>
+        <br />
+        <br />
         <p className="Heading-Large">
-          Well Hrishita, Your Boyfriend is a Genius
-        </p>
-        <br />
-        <br />
-        <p className="Heading">
-          Once again, Congratulations on Completing 3 Years!
+          Once again, a very Happy Birthday to you!
         </p>
       </div>
     </div>

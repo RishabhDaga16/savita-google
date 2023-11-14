@@ -4,31 +4,32 @@ export default function Fourth() {
   return (
     <div>
       <a href="/search">
-        <img src="fourth.jpg" className="top-image" />
+        <img src="fourth.jpeg" className="top-image" />
       </a>
-      <img
-        src="https://ucarecdn.com/96d298dc-ea14-491e-9bbc-267088b6b972/-/preview/500x500/-/quality/smart/-/format/auto/"
-        className="hrishita-pic"
-      />
-          <a href="/">
+      <button type="button" className="btn btn-primary login">
+        Sign In
+      </button>
+      <a href="/">
         <img
           src="Google Logo Transparent.png"
           className="google-landing-redirect"
         />
       </a>
       <div>
-        <p className="Heading-Large">"I Love You"</p>
+        <p className="Heading-Large">"We Love You"</p>
       </div>
-      <div>
-        <center>
-          <video src="HR-video.mp4" className="video" autoPlay loop muted />
-        </center>
+      <div className="pics">
+        <img src="AS-pic.jpeg" className="pic3" />
+        <img src="AS-pic 2.jpeg" className="pic2" />
       </div>
       <div className="Info">
-        In Rishabh's words, "My love for you is immeasurable. You're the best
-        thing that ever happened to me. These 3 years have been the happiest
-        part of my life and I can't wait to spend the rest of my life with you.
-        Happy 3 Years Hrishita, I love you."
+        In her son, Rishabh's words, "We love you more than you can imagine. We
+        feel so lucky and grateful to have you in our lives. You are the best
+        mother the world could ever imagine. Whatever we have achieved in our
+        lives, whatever progress we have made, you have played a very crucial
+        role in making that possible and we couldn't have done it without you.
+        Thank you so much for everything. May God keep you happy and smiling
+        always."
       </div>
     </div>
   );
